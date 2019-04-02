@@ -1,0 +1,29 @@
+
+#optionsimg {
+    width: 50px;
+    align-content: center;
+}
+h1 {
+    font-family: cursive;
+    font-size: 70px;
+    border: solid black 3px;
+
+}
+p{
+    border: solid black 1px;
+    padding: 5px;
+}
+#listintrop{
+
+}
+ul{
+    background-color: beige;
+    position: relative;
+    width: 200px;
+    height: 180px;
+    margin: 0px;
+    padding: 5px;
+    list-style-type: none;
+    border: 2px solid black;
+
+}
